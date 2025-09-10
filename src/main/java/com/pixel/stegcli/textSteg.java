@@ -14,6 +14,6 @@ public class textSteg implements Runnable {
     }
     @Override
     public void run() {
-        System.out.println("This is Main CLI use subcommands ");
+        System.out.println("This is Main CLI use subcommands,Try --help ");
     }
 }
